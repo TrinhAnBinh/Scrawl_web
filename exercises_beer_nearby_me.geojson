@@ -1,0 +1,495 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Legend Beer",
+                "address": "4 Vũ Ngọc Phan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8115018,
+                    21.0140736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Sphinx Beer Bar",
+                "address": "2 Láng Hạ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8190079,
+                    21.0227456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SBB - Special Belgian Beer",
+                "address": "66 Nguyên Hồng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8094291,
+                    21.0156435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sparta Beer Club",
+                "address": "Tầng M Tòa nhà Sông Hồng Park View B, 165 Thái Hà"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8171964,
+                    21.0145101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zamba Beer",
+                "address": "5 Yên Lãng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8187508,
+                    21.0134269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MyWay Beer & Cafe",
+                "address": "24T2 Hoàng Đạo Thúy - Cầu Giấy - Hà Nội, Hoàng Đạo Thúy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8030749,
+                    21.0073895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T+Beer 90 Láng",
+                "address": "90 Đường Láng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8189526,
+                    21.0037083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "911 Beer Club",
+                "address": "289a Khuất Duy Tiến"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7920742,
+                    21.0016497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T+ Beer Club",
+                "address": "174 Ngọc Khánh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8198262,
+                    21.0238911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lân Beer Quán 2",
+                "address": "Dịch Vọng, Cầu Giấy, Hanoi, Vietnam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7917896,
+                    21.0298027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bazooka Restaurant Club",
+                "address": "48 Trần Duy Hưng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8013077,
+                    21.0126079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Xích Beer Club",
+                "address": "68 Nguyên Hồng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8093704,
+                    21.0156316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bia hơi Chiến Béo",
+                "address": "3N2 Khuất Duy Tiến"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7985527,
+                    20.995438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ngọc Hằng Beer Restaurant",
+                "address": "110 Huỳnh Thúc Kháng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8111011,
+                    21.0186937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Belgian Beer Club BBC (CLB Bia Bỉ BBC)",
+                "address": "Số 3, Trung Yên 3, Trung Hoà"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8005185,
+                    21.0152939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roxa Beer",
+                "address": "15 Phố Duy Tân"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7833755,
+                    21.0309675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Duc Troc Beer Hall",
+                "address": "790 Đường Láng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8032322,
+                    21.0178362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Container Craft Beer",
+                "address": "56 Đào Tấn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8079458,
+                    21.0328329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heninger Beer Phuong Ngoc Thanh Cong Lake Side",
+                "address": "Số 2 B2A Thành Công"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8141525,
+                    21.0210932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bia hơi An Chi",
+                "address": "Số 20, phố Ngụy Như Kon Tum,"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7993205,
+                    20.9979447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hải Hói Beer Hall",
+                "address": "Vũ Phạm Hàm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7980354,
+                    21.0176709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Quán Bia Lương Dung",
+                "address": "Phố Thành Thái"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7913455,
+                    21.029717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Việt Dũng Restaurant",
+                "address": "Phố Thành Thái"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7913745,
+                    21.0298537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zamba Beer & BBQ",
+                "address": "75 Nguyễn Công Hoan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8133522,
+                    21.0272087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T+ Beer Club",
+                "address": "139 Đường Cầu Giấy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7990929,
+                    21.0318465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VITAMIN BEER",
+                "address": "Tòa nhà Kinh Đô, 66 298, Tây Sơn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8209894,
+                    21.0087735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "9th Hour Beer Restaurant",
+                "address": "5 Trần Duy Hưng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8042357,
+                    21.0140927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sapasa Beer Garden",
+                "address": "96 Nguyễn Huy Tưởng"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8059664,
+                    20.9985169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAXEO Chicken - Beer & BBQ",
+                "address": "Số 72A, Royal City, Nguyễn Trãi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8167326,
+                    21.0020372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Sphinx Beer Bar",
+                "address": "2 Láng Hạ"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8189325,
+                    21.0227936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GoldMalt Beer Restaurant",
+                "address": "397 Trường Chinh, Quận Thanh Xuân, Hà Nội"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8204544,
+                    21.002698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà Hàng 559 Tùng Tít",
+                "address": "47 Thái Thịnh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8200949,
+                    21.0082515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CLB Bia tươi Gavina",
+                "address": "96 Thái Thịnh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.821299,
+                    21.007203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nhà hàng 3C Beer",
+                "address": "Tầng 1, Toà nhà HEI TOWER- Ngõ 9, Hoàng Đạo Thúy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8054554,
+                    21.0031261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "iBiero Craft Beer Station - Diamond Flower Building 48 Lê Văn Lương",
+                "address": "48 Đường Lê Văn Lương"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8038083,
+                    21.005446
+                ]
+            }
+        }
+    ]
+}
